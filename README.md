@@ -47,3 +47,14 @@ leitor=Pedro]
 
 ---
 
+<details>
+  <summary>📸 Clique aqui para ver os prints do código</summary>
+  <img src="img/livro0.PNG">
+  <img src="img/livro1.png">
+  <img src="img/livro2.png">
+  <img src="img/livro3.png">
+  <img src="img/livro4.png">
+  <img src="img/livro5.png">
+  <img src="img/livro6.png">
+  
+</details>
